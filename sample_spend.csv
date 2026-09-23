@@ -1,0 +1,31 @@
+Contracting Agency Code,Contracting Agency Name,Prime AM Code,Prime CT Code,Award Category Code,Expense Category,Prime Contract Classification,Prime Contract Number,Payee Name,M/WBE Category,Minority Owned Business,Woman Owned Business,Check Amount
+2,Agency 002,1,51,23,PROF SERV OTHER,Less than $1 Million,CT100001,Harbor Consulting LLC,Black American,Y,N,125000
+17,Agency 017,1,70,30,CONTRACTUAL SERVICES GENERAL,Less than $1 Million,CT100002,Borough Facility Services,Hispanic American,Y,Y,84000
+25,Agency 025,1,70,50,SOCIAL SERVICES - GENERAL,Less than $1 Million,CT100003,Community Care Partners,Non-M/WBE,N,N,410000
+30,Agency 030,1,5,0,CONSTRUCTION-BUILDINGS,Greater than $1 Million,CT100004,Five Boroughs Builders,Asian American,Y,N,2350000
+32,Agency 032,1,46,0,SUPPLIES + MATERIALS - GENERAL,Greater than $1 Million,CT100005,Metro Supply Corp,Non-M/WBE,N,N,1800000
+54,Agency 054,1,81,0,OFFICE EQUIPMENT,Greater than $1 Million,CT100006,Citywide Office Goods,Women (Non-Minority),N,Y,1250000
+56,Agency 056,1,81,0,OFFICE EQUIPMENT,Less than $1 Million,CT100007,Citywide Office Goods,Women (Non-Minority),N,Y,64000
+57,Agency 057,6,51,23,PROF SERV OTHER,Less than $1 Million,CT100008,Sole Source Analytics,Non-M/WBE,N,N,97000
+999,Agency 999,1,51,23,PROF SERV OTHER,Less than $1 Million,CT100009,Harbor Consulting LLC,Black American,Y,N,55000
+10,Agency 010,1,51,23,PROF SERV LEGAL SERVICES,Less than $1 Million,CT100010,Liberty Legal Group,Hispanic American,Y,N,72000
+15,Agency 015,1,10,12,CONTRACTUAL SERVICES GENERAL,Less than $1 Million,CT100011,Empire Cleaning Co,Black American,Y,Y,38000
+40,Agency 040,1,10,200,PROF SERV COMPUTER SERVICES,Less than $1 Million,CT100012,Bridge Data Systems,Asian American,Y,N,143000
+68,Agency 068,1,10,1,PROF SERV OTHER,Less than $1 Million,CT100013,NYC Economic Development Corporation,Non-M/WBE,N,N,900000
+69,Agency 069,1,10,12,POSTAGE,Less than $1 Million,,Jane Doe,Individuals & Others,N,N,1200
+69,Agency 069,1,10,12,POSTAGE,Less than $1 Million,CT100015,Neighborhood Mail Services,Individuals & Others,N,N,8800
+71,Agency 071,1,10,300,EQUIPMENT GENERAL,Less than $1 Million,CT100016,Metro Supply Corp,Non-M/WBE,N,N,46000
+72,Agency 072,1,10,35,CONTRACTUAL SERVICES GENERAL,Less than $1 Million,CT100017,Queens Maintenance Inc,Hispanic American,Y,N,51000
+96,Agency 096,1,10,60,SOCIAL SERVICES - GENERAL,Less than $1 Million,CT100018,Community Care Partners,Non-M/WBE,N,N,220000
+125,Agency 125,1,10,0,DEMOLITION,Less than $1 Million,CT100019,Five Boroughs Builders,Asian American,Y,N,310000
+126,Agency 126,1,10,0,CLEANING SUPPLIES,Less than $1 Million,CT100020,Empire Cleaning Co,Black American,Y,Y,12500
+136,Agency 136,1,10,0,HEAD START,Less than $1 Million,CT100021,Early Steps Inc,Non-M/WBE,N,N,390000
+156,Agency 156,1,10,0,ARCH/ENGINEERING FEES,Less than $1 Million,CT100022,Skyline Design Studio,Women (Non-Minority),N,Y,187000
+226,Agency 226,1,10,0,SECURITY SERVICES,Less than $1 Million,CT100023,Guardian Security Group,Black American,Y,N,99000
+260,Agency 260,1,10,0,MISCELLANEOUS,Less than $1 Million,CT100024,General Vendor LLC,Non-M/WBE,N,N,15000
+801,Agency 801,1,10,0,TEMPORARY SERVICES,Less than $1 Million,CT100025,New York City Housing Authority,Non-M/WBE,N,N,64000
+901,Agency 901,1,10,0,PROF SERV ACCTING & AUDITING,Less than $1 Million,CT100026,Ledger Audit Partners,Women (Non-Minority),N,Y,58000
+856,Agency 856,24,10,0,PROF SERV OTHER,Less than $1 Million,CT100027,Emergency Response Co,Non-M/WBE,N,N,275000
+866,Agency 866,1,52,0,MAINT & OPER OF INFRASTRUCTURE,Less than $1 Million,CT100028,Five Boroughs Builders,Asian American,Y,N,640000
+17,Agency 017,1,10,31,CONTRACTUAL SERVICES GENERAL,Less than $1 Million,CT100029,Borough Facility Services,Hispanic American,Y,Y,27000
+30,Agency 030,1,53,0,PROF SERV OTHER,Greater than $1 Million,CT100030,Five Boroughs Builders,Asian American,Y,N,3100000
