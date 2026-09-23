@@ -81,8 +81,6 @@ How to run
   python ll174_spend_filter.py                  (uses sample_spend.csv)
   python ll174_spend_filter.py <extract.csv>    (any file with the same columns)
 
-The code file is also provided as ll174_spend_filter.txt; rename it to .py to run.
-
 Output
 ------
 Console: reconciliation table for each agency group.
@@ -90,9 +88,3 @@ Console: reconciliation table for each agency group.
 ./output/all_rated_totals.csv
 ./output/elected_officials_totals.csv
 
-Notes
------
-The original was an exploratory Jupyter notebook. For sharing I consolidated the
-three duplicated agency-group filters into one function, added exclusion reasons
-and the reconciliation checks, replaced local file paths, and aligned the rules
-with the documented FY23 methodology.
