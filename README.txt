@@ -5,7 +5,7 @@ What it does
 ------------
 Code I wrote for the NYC Comptroller's FY23 Annual Report on M/WBE Procurement.
 It applies Local Law 174's inclusion and exclusion rules to City payment records
-(FMS/Checkbook spend) and totals spend by agency, ownership group, M/WBE category,
+(Checkbook spend) and totals spend by agency, ownership group, M/WBE category,
 and industry. The filtered spend is the base for the report's agency
 comparisons, including the z-score and cohort rankings in my writing sample.
 
@@ -67,7 +67,7 @@ Steps
    output totals must equal the included spend. The script stops if they don't.
 5. Write totals by agency, ownership group, M/WBE category, and industry.
 
-In production the script ran once per fiscal year on the full FMS extract.
+In production the script ran once per fiscal year on the full Checkbook extract.
 
 Data
 ----
